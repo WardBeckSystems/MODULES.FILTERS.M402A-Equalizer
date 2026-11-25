@@ -53,7 +53,7 @@ Wbsps,Ca
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/wbsps - promo - m402a eq - 002.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/wbsps - promo - m402a eq - 002.jpg",
  "sha256": "fe0ff4f4a0417c1ce8d3895dc3b054d2778b1313130fd20dfcbaef7f7b800f03",
  "kind": "module",
  "models": [

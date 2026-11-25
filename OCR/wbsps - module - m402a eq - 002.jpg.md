@@ -55,7 +55,7 @@ zoco GLLESMTPE AOAD ECAFMAQUGHE DNTAAID
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/wbsps - module - m402a eq - 002.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/wbsps - module - m402a eq - 002.jpg",
  "sha256": "5736128aad7843349bb360f7980daf920a574b6623b7f6ba8151b335b777cb2a",
  "kind": "module",
  "models": [

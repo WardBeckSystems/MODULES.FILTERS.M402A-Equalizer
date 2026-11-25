@@ -51,7 +51,7 @@ Zoco 5LEEMGPE AJAd ECAFMJAOUCH DNYTRAID
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/1968 - M402A - wbsps - module - m402a eq - 002.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/1968 - M402A - wbsps - module - m402a eq - 002.jpg",
  "sha256": "bbadbcd5a3871663c7921229f218db6df32f307645004a1cb26c6f8609322f68",
  "kind": "module",
  "models": [

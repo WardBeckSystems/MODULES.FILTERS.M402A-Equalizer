@@ -41,7 +41,7 @@ The M4O2B is entirely balanced and lossless. The active circuit operates with 38
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/1968 - M402A - Ward Beck Systems M402A 1.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/1968 - M402A - Ward Beck Systems M402A 1.jpg",
  "sha256": "3851fb4b1cd014b39aad19b8750acb2e01805939bbb81ebc6b51b9998c1d8e7d",
  "kind": "module",
  "models": [

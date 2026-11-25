@@ -57,7 +57,7 @@ Madea
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/1968 - M402A - wbsps - promo - m402a eq - 001.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/1968 - M402A - wbsps - promo - m402a eq - 001.jpg",
  "sha256": "2a7f6b6b065d7b79db014499713f135b195c9f51b942c0887258aaa2b331ae39",
  "kind": "module",
  "models": [

@@ -40,7 +40,7 @@ WARD-BECK SYSTEMS LTD.
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/1968 - M402A - wbsps - promo - m402a eq - 002.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/1968 - M402A - wbsps - promo - m402a eq - 002.jpg",
  "sha256": "8804a54ada911310c3f9ecd9751c36c141f529f774b893c2a95136868b189ae1",
  "kind": "module",
  "models": [

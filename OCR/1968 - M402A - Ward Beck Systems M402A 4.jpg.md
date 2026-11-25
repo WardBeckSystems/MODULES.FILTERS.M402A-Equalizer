@@ -38,7 +38,7 @@ WBS
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/1968 - M402A - Ward Beck Systems M402A 4.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/1968 - M402A - Ward Beck Systems M402A 4.jpg",
  "sha256": "80d92326301563e081d9cc26a97489364e21c691749595b38e8b09f6a70bd979",
  "kind": "module",
  "models": [

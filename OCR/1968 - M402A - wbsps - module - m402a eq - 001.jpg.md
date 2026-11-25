@@ -53,7 +53,7 @@ Tne M4024 entirely balanced AM] los3i8S5 The active circuit operates J8dB Iain; 
 
 ```json
 {
- "file": "Modules/FILTERS/M402A/PHOTOS/1968 - M402A - wbsps - module - m402a eq - 001.jpg",
+ "file": "Modules/FILTERS/M402A/MANUALS/1968 - M402A - wbsps - module - m402a eq - 001.jpg",
  "sha256": "32c313a59bc404d529fe01fb9e8f5cfcee2be414e58510c59cf8b29b387e1715",
  "kind": "module",
  "models": [
