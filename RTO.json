@@ -1,0 +1,117 @@
+{
+ "code": "M402A",
+ "connector": "RTO-144",
+ "type": "M402A Spec Sheet",
+ "series": null,
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": "M402B",
+ "pins": [
+  {
+   "pin": "5",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "EQ IN RIGHT",
+   "kind": "in",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "+48 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M402A/M402A.rto144.json",
+  "Engineering/RTO-144/M402B/M402B.rto144.json"
+ ]
+}
