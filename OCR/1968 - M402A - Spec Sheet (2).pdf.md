@@ -23,7 +23,7 @@ Wiki page: [M402A](../../../../PAGES/M402A.md)
 - **Dots (junctions):** 2
 - **Words (OCR):** 282 in 44 lines: [\NB · M402A EFFECTS EQUALIZER · DESCRIPTION: · FEATURES: · he M4 02A Effects Equali zer is plug-in, high-perf orm ance module designed · to be compatible with the Ward-Beck group of modular console components. · Active circuitry uses operational · Frequency selection and degree of equalization are 
 
-Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p1 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20(2)%20p1%20(traced).json) (the CAD file: `1968 - M402A - Spec Sheet (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p1 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1968 - M402A - Spec Sheet (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -35,7 +35,7 @@ Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p1 (traced
 - **Words (OCR):** 64 in 52 lines: PANEL cutoUT · DETaILS · Tthk Pc CONNecTor · (22 Pin) · 9-5 B · St5 · 5.29 · M402A · TECHNICAL DATA: · OUTPUT IMPEDANCE · MATCHED GAIN · 600 ohms ( 150 ohms available)
 - **Title block:** (17, 18)–(254, 50) mm: WBS · WARD-BECK SYSTEMS LTD. · 2OC0 ELLESMERE ROAD SCARBOROUGH ONTARIO 416/291-2106
 
-Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p2 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20(2)%20p2%20(traced).json) (the CAD file: `1968 - M402A - Spec Sheet (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p2 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1968 - M402A - Spec Sheet (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p2 (traced
 - **Words (OCR):** 46 in 31 lines: M402A EFFECTS EQUALIZER CHARACTERISTICS · dB · 12 · 10 · 11- · 1'00 · 12 · 15 · -20 · 100 · 1000 · 10000
 - **Title block:** (126, 24)–(260, 48) mm: WARD-BECK SYSTEMS · tp
 
-Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p3 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20(2)%20p3%20(traced).json) (the CAD file: `1968 - M402A - Spec Sheet (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p3 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1968 - M402A - Spec Sheet (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p3 (traced
 - **Closed boxes:** 369; named: __:-I-...d-.....l:-t.J-++++----+-+-+-++-; __:-I-...d-.....l:-t.J-++++----+-+-+-++-; 1---+---+-I-H--J...~I--
 - **Words (OCR):** 39 in 31 lines: dB · 1---+---+-I-H--J...~I-- · __:-I-...d-.....l:-t.J-++++----+-+-+-++-H-+1 · 10 · FIVE PRE PO;CE · rep. · SHOWN · ONE CUR' 1e · FAMILY · jJ · 1000 · 10000
 
-Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p4 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20(2)%20p4%20(traced).json) (the CAD file: `1968 - M402A - Spec Sheet (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402A - Spec Sheet (2) p4 (traced).json](../MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1968 - M402A - Spec Sheet (2) p4 (traced).dxf`).
 
 ## Full text
 

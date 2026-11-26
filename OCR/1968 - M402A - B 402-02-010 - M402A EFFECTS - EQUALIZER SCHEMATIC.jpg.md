@@ -23,7 +23,7 @@ Wiki page: [M402A](../../../../PAGES/M402A.md)
 - **Words (OCR):** 9 in 9 lines: ME,21 · F0444 · Fd44 · JtG · S2 · leocur · BECKESYSIES · TFRHINALS · LLST 'R'106
 - **Wiring (first pass):** 162 connected wire groups from 1,057 runs, 3 dotted junctions; labelled ends: 137 mm → F0444, JtG, S2; 80 mm → BECKESYSIES; 30 mm → S2; 28 mm → S2; 25 mm → S2
 
-Every curve, box, word and wire group: [1968 - M402A - B 402-02-010 - M402A EFFECTS - EQUALIZER SCHEMATIC (traced).json](../SCHEMATICS/1968%20-%20M402A%20-%20B%20402-02-010%20-%20M402A%20EFFECTS%20-%20EQUALIZER%20SCHEMATIC%20(traced).json) (the CAD file: `1968 - M402A - B 402-02-010 - M402A EFFECTS - EQUALIZER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402A - B 402-02-010 - M402A EFFECTS - EQUALIZER SCHEMATIC (traced).json](../SCHEMATICS/1968%20-%20M402A%20-%20B%20402-02-010%20-%20M402A%20EFFECTS%20-%20EQUALIZER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1968 - M402A - B 402-02-010 - M402A EFFECTS - EQUALIZER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

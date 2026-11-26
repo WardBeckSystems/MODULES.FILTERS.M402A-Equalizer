@@ -20,7 +20,7 @@ Wiki page: [M402A](../../../../PAGES/M402A.md)
 - **Closed boxes:** 12
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1968 - M402A - 144-06-002 - MIN BEND RAD UNESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402A%20-%20144-06-002%20-%20MIN%20BEND%20RAD%20UNESS%20SPECIFIED%20(traced).json) (the CAD file: `1968 - M402A - 144-06-002 - MIN BEND RAD UNESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402A - 144-06-002 - MIN BEND RAD UNESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402A%20-%20144-06-002%20-%20MIN%20BEND%20RAD%20UNESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1968 - M402A - 144-06-002 - MIN BEND RAD UNESS SPECIFIED (traced).dxf`).
 
 ## Full text
 
