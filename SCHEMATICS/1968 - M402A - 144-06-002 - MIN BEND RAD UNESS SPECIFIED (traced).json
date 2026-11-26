@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/FILTERS/M402A/SCHEMATICS/1968 - M402A - 144-06-002 - MIN BEND RAD UNESS SPECIFIED.jpg",
+ "version": 1,
+ "trace": "_traces/ec034795a67818ff.svg",
+ "sheet": {
+  "number": "144-06-002",
+  "title": "Min Bend Rad Uness Specified",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 270,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 32.3, 427.7, 305.3],
+ "outlines": {
+  "line": {"rings": 1855, "straight": {"n": 9193, "mm": 10626.8}, "curved": {"n": 1669, "mm": 1681.4}},
+  "text": {"rings": 555, "straight": {"n": 3302, "mm": 2885.9}, "curved": {"n": 838, "mm": 902.2}}
+ },
+ "circles": [
+  {"c": [197.4, 36.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [108.0, 206.7], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [308.4, 198.4], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [244.4, 41.7, 323.0, 79.0], "w": 78.6, "h": 37.4, "from": "ring"},
+  {"mm": [191.9, 69.5, 205.1, 78.6], "w": 13.2, "h": 9.2, "from": "ring"},
+  {"mm": [206.4, 69.5, 244.0, 78.6], "w": 37.6, "h": 9.1, "from": "ring"},
+  {"mm": [191.9, 60.2, 205.1, 69.4], "w": 13.2, "h": 9.1, "from": "ring"},
+  {"mm": [206.2, 60.5, 244.0, 69.3], "w": 37.8, "h": 8.9, "from": "ring"},
+  {"mm": [206.2, 50.7, 244.0, 60.2], "w": 37.8, "h": 9.5, "from": "ring"},
+  {"mm": [191.9, 50.7, 205.4, 60.0], "w": 13.5, "h": 9.3, "from": "ring"},
+  {"mm": [192.2, 41.4, 205.4, 50.3], "w": 13.2, "h": 8.9, "from": "ring"},
+  {"mm": [206.2, 41.7, 244.2, 50.3], "w": 38.0, "h": 8.6, "from": "ring"},
+  {"mm": [337.0, 33.0, 405.3, 42.1], "w": 68.3, "h": 9.1, "from": "ring"},
+  {"mm": [405.7, 33.5, 417.2, 42.1], "w": 11.5, "h": 8.6, "from": "ring"},
+  {"mm": [324.1, 32.8, 336.8, 41.7], "w": 12.7, "h": 8.9, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [159.3, 205.3], "r": 1.1, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 144-06-002, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 4–428 mm across, 32–305 mm up",
+  "- **Outlines:** line 1,855 rings, 9,193 straight (10,627 mm) / 1,669 curved (1,681 mm); text 555 rings, 3,302 straight (2,886 mm) / 838 curved (902 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (197.4, 36.7), r 1.2 @ (108.0, 206.7), r 0.9 @ (308.4, 198.4)",
+  "- **Closed boxes:** 12",
+  "- **Dots (junctions):** 1"
+ ]
+}
