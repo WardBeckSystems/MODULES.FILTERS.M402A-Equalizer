@@ -13,6 +13,27 @@ Ward-Beck Systems M402A, 1968|1. Wiki page: [M402A on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 59 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [5 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1968 - M402A - Spec Sheet.pdf](MANUALS/1968%20-%20M402A%20-%20Spec%20Sheet.pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Frequency response** | OUTPUT LEVEL ± 0.5dB from 20Hz to 20kHz (effects controls at zero position) +18dBm maximum EQUIVALENT INPUT NOISE PHASING —1 15dBm (10Hz to 100kHz bandwidth) The low terminal number of the input pair and the low |
+| **Harmonic distortion** | terminal number of the output pair are in phase. Less than 0.5% from 30Hz to 20kHz (Measured at +18dBm EQUALIZING CHARACTERISTICS |
+| **Output level** | In accordance with specified curves within ± 0.5dB |
+| **Source impedance** | POWER REQUIREMENTS 150/600 ohms balanced or unbalanced 48 volts dc, regulated from M648 or equivalent. 65mA |
+| **Input impedance** | AMBIENT TEMPERATURE 150/600 ohms ± 10% 0° to 60°c |
+| **Input level** | DIMENSIONS —38dBm nominal, —20dBm maximum 1.58W x 6.625L x 6D (depth below panel) inches |
+| **Load impedance** | WEIGHT 600 ohms 11/2 lbs. Net |
+| **Accessories** | 2000 ELLESMERE ROAD, SCARBOROUGH, ONTARIO • 416/ 291-2108 |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

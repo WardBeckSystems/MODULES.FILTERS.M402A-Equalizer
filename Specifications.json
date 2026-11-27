@@ -1,0 +1,158 @@
+{
+ "module": "M402A",
+ "title": "MATCHED GAIN OUTPUT IMPEDANCE",
+ "source": {
+  "file": "MANUALS/1968 - M402A - Spec Sheet.pdf",
+  "page": 2
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "OUTPUT LEVEL ± 0.5dB from 20Hz to 20kHz (effects controls at zero position) +18dBm maximum EQUIVALENT INPUT NOISE PHASING —1 15dBm (10Hz to 100kHz bandwidth) The low terminal number of the input pair and the low",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    },
+    {
+     "value": 15,
+     "unit": "dBm"
+    },
+    {
+     "value": 10,
+     "unit": "Hz"
+    },
+    {
+     "value": 100,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "terminal number of the output pair are in phase. Less than 0.5% from 30Hz to 20kHz (Measured at +18dBm EQUALIZING CHARACTERISTICS",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "In accordance with specified curves within ± 0.5dB",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "POWER REQUIREMENTS 150/600 ohms balanced or unbalanced 48 volts dc, regulated from M648 or equivalent. 65mA",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 48,
+     "unit": "volts dc"
+    },
+    {
+     "value": 65,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "AMBIENT TEMPERATURE 150/600 ohms ± 10% 0° to 60°c",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 10,
+     "unit": "%"
+    },
+    {
+     "value": 60,
+     "unit": "°c"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "DIMENSIONS —38dBm nominal, —20dBm maximum 1.58W x 6.625L x 6D (depth below panel) inches",
+   "quantities": [
+    {
+     "value": 38,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    },
+    {
+     "value": 1.58,
+     "unit": "W"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "WEIGHT 600 ohms 11/2 lbs. Net",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 2,
+     "unit": "lbs"
+    }
+   ]
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "2000 ELLESMERE ROAD, SCARBOROUGH, ONTARIO • 416/ 291-2108"
+  }
+ ]
+}
