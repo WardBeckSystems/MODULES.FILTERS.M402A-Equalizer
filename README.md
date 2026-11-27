@@ -64,19 +64,32 @@ Not on Google Drive yet: `M402A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**Inserts:** EXTERNAL PAD: PAD IN → PAD OUT
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 5 | EQ IN LEFT | in | A1 + | variant |
-| 6 | EQ IN RIGHT | in | A3 - | variant |
-| 8 | EQ IN LEFT | in | A1 - | variant |
-| 13 | EQ OUT LEFT | out | A2 + | variant |
-| 14 | EQ OUT LEFT | out | A2 - | variant |
-| 18 | COMMON | ground |  | variant |
-| 19 | COMMON | ground |  | variant |
-| 20 | +24 V | power |  | variant |
-| 22 | +48 V | power |  | variant |
+| 1 | PAD IN A | insert_send | PAD IN | medium |
+| 2 | PAD IN B | insert_send | PAD IN | medium |
+| 3 | PAD OUT A | insert_return | PAD OUT | medium |
+| 4 | PAD OUT B | insert_return | PAD OUT | medium |
+| 5 | TRANSFORMER INPUT | in | INPUT | medium |
+| 6 | TRANSFORMER INPUT STRAP | strap | INPUT | medium |
+| 7 | TRANSFORMER INPUT STRAP | strap | INPUT | medium |
+| 8 | TRANSFORMER INPUT | in | INPUT | medium |
+| 9 | INPUT SHIELD | shield | INPUT shield | medium |
+| 13 | OUTPUT 1 A | out | OUTPUT 1 | medium |
+| 14 | OUTPUT 1 B | out | OUTPUT 1 | medium |
+| 15 | OUTPUT 2 A | out | OUTPUT 2 | medium |
+| 16 | OUTPUT 2 B | out | OUTPUT 2 | medium |
+| 18 | -GND / COMMON | ground |  | medium |
+| 19 | CHASSIS GROUND / LAMP - | ground |  | medium |
+| 20 | +24 V | power |  | medium |
+| 21 | LAMP FEED STRAP | strap |  | medium |
+| 22 | +48 V | power |  | medium |
+
+**Straps:** 600Ω: P1-6 P1-7 · 150Ω: P1-5 P1-6 · PAD BYPASS: P1-3 P1-5 · LAMP 48V: P1-21 P1-22
 
 ## Manuals and documents
 
