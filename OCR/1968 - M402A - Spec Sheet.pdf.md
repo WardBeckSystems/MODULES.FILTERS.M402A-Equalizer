@@ -1,5 +1,5 @@
 # 1968 - M402A - Spec Sheet.pdf
-Wiki page: [M402A](../../../../PAGES/M402A.md)
+Wiki page: [M402A](../)
 
 
 - **Year:** 1968 (module estimate (family))

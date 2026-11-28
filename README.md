@@ -1,6 +1,6 @@
 # M402A Equalizer · Filters
 
-Ward-Beck Systems M402A, 1968|1. Wiki page: [M402A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M402A.html)
+Ward-Beck Systems M402A, 1968|1. Wiki page: [M402A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M402A-Equalizer/)
 
 | Folder | What is in it | Files |
 |---|---|---|

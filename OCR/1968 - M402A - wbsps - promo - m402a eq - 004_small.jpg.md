@@ -1,5 +1,5 @@
 # 1968 - M402A - wbsps - promo - m402a eq - 004_small.jpg
-Wiki page: [M402A](../../../../PAGES/M402A.md)
+Wiki page: [M402A](../)
 
 
 - **Year:** 1968 (module estimate (family))

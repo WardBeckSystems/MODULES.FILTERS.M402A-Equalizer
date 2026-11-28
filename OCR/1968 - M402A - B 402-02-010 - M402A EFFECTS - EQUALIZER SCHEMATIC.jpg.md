@@ -1,5 +1,5 @@
 # 1968 - M402A - B 402-02-010 - M402A EFFECTS - EQUALIZER SCHEMATIC.jpg
-Wiki page: [M402A](../../../../PAGES/M402A.md)
+Wiki page: [M402A](../)
 
 
 - **Year:** 1968 (module estimate (family))
