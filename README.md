@@ -4,13 +4,12 @@ Ward-Beck Systems M402A, 1968|1. Wiki page: [M402A on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 61 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 60 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 50 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -55,8 +54,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M402A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -106,15 +103,12 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18KV1lhmRXhw8qUWH4hyCeFP6HZWLseKb/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18KV1lhmRXhw8qUWH4hyCeFP6HZWLseKb" width="240" alt="19xx - M402A - DOC - GRIT CLEAR ALODINE MATERIA.jpg"></a><br><sub>19xx - M402A - DOC - GRIT CLEAR ALODINE MATERIA</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M402A - M402A.jpg`, `19xx - M402A - M402B.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1968 - M402A - B 402-02-010 - M402A EFFECTS - EQUALIZER SCHEMATIC.kicad_sch](KICAD/1968%20-%20M402A%20-%20B%20402-02-010%20-%20M402A%20EFFECTS%20-%20EQUALIZER%20SCHEMATIC.kicad_sch)
 - [M402A.kicad_sym](KICAD/M402A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
